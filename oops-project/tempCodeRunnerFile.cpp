@@ -1,0 +1,3 @@
+twovariablelinearequation();
+// threevariablelinearequation();
+    

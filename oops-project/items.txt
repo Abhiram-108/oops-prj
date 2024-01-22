@@ -1,0 +1,14 @@
+1 Rectangle
+2 parallelogram
+3 Sphere
+4 Triangle
+5 Rhombus
+6 Cone
+7 Cuboid
+8 Circle
+9 Square
+10 Cylinder
+11 Trapezium
+12 Hemisphere
+
+
